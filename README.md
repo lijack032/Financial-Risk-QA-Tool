@@ -1,4 +1,4 @@
-# Treasury Risk Research Assistant
+# Financial Risk Q&A Tool
 
 ## Overview
 
@@ -148,7 +148,7 @@ The project has four main layers:
 ## Project Structure
 
 ```text
-treasury-risk-research-assistant/
+Financial Risk Q&A Tool/
 ├── data/
 │   ├── raw_docs/
 │   │   └── downloaded PDF reports
