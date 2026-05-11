@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+python-dotenv
+langchain
+langchain-core
+langchain-openai
+yfinance
+pypdf
+requests
